@@ -1,2 +1,2 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<pelicula titulo="La diligencia"/>
+<pelicula titulo="La diligencia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///E:/Lenguaje%20de%20Marcas/XML-Esquemas/Esquemas/Esquema%209.xsd"></pelicula>
